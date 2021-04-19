@@ -1,0 +1,14 @@
+body {
+    background-color: cornflowerblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    margin-top: 100%;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.col-6{
+    margin-left: 20px;
+    margin-top: 80px; 
+}
